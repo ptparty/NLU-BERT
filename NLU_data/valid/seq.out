@@ -1,0 +1,682 @@
+#dialog 0
+B-세트메뉴 O O O
+B-음료 O B-메뉴 O B-사이즈 O O O O O
+O O O
+O B-재료 O O O O O
+O B-수량 O
+#dialog 1
+O O O O
+O O O O
+O B-메뉴 O O
+O
+O O O
+#dialog 2
+B-메뉴 B-수량 I-수량
+O
+O B-메뉴 O
+B-메뉴 I-메뉴 O O O O
+O
+B-수량 I-수량 O O
+O O B-양념 O O O
+O O O O B-원산지 O
+B-장소 O O
+B-결제종류 O O O
+#dialog 3
+O O O
+O O
+O O
+O O
+O O
+#dialog 4
+O
+O O
+O O
+B-메뉴 I-메뉴 O O
+O B-메뉴 O O O O
+O O
+O O B-수량 O B-메뉴 I-메뉴
+O O O O
+O
+O O O O
+O O O O O O O
+O O O O O
+O O O O O
+B-메뉴 I-메뉴 O
+#dialog 5
+O O O O
+B-메뉴 B-수량 B-메뉴 O O O O
+B-메뉴 O B-재료 O O O
+O O O
+B-메뉴 B-수량 O O
+#dialog 6
+O O O O O O
+B-메뉴 I-메뉴 O
+B-메뉴 I-메뉴 O
+O O
+B-메뉴 I-메뉴 O O
+O O
+O B-수량 I-수량 O
+O O O O O O
+O O
+O O O
+O B-메뉴 O O
+B-메뉴 O O
+O O O
+#dialog 7
+B-시간 O
+O B-메뉴 O O
+O
+B-술 O O O
+B-결제방식 O O
+#dialog 8
+B-메뉴 I-메뉴 O
+O O
+O O O O O O
+B-식기 B-수량 O O O O
+O O O B-반찬 O
+O O O
+O O O O
+B-메뉴 I-메뉴 O O
+O O O O O
+O
+#dialog 9
+O B-상호 O O O O
+O O O O O
+B-인원 O O O O
+B-사이즈 O O
+B-메뉴 O O B-재료 O B-재료 O
+O B-원산지 O
+O B-메뉴 I-메뉴 O O B-메뉴 I-메뉴 O O O O O
+O B-인원 I-인원 O B-메뉴 B-수량 O O O O O O
+B-메뉴 O O O O
+O O O O
+O O O O O O O O O
+B-배달지 I-배달지 I-배달지 O
+#dialog 10
+B-메뉴 B-수량 O
+O O O
+B-메뉴 I-메뉴 O O
+O O O O O
+O B-재료 O O B-양념 O O O
+B-반찬 O O O
+#dialog 11
+O O O O O
+O B-부속물 O B-재료 O
+O B-메뉴 B-수량 O
+O B-사이드 B-수량 O O O O O
+O O O
+B-재료 O B-원산지 O O B-메뉴
+O
+O
+B-메뉴 O O O
+O
+#dialog 12
+B-인원 O O
+O O O
+B-비품 O O O
+O O O
+O B-메뉴 I-메뉴 O O
+O O
+O B-맛 O O O O
+O O O O
+B-장소 O
+O O B-반찬 O O
+O O O
+B-사이드 O O O O O
+B-샐러드 I-샐러드 O B-재료 O O O O
+O O O O O O O
+B-메뉴 O O O
+O O O
+O O O B-수량 I-수량 O B-수량 I-수량 O O O O O O O
+O O
+O
+O B-쿠폰수량 O O O O O O
+O O
+#dialog 13
+O O O
+O O O O
+B-메뉴 O O
+O O
+O B-수량 O O
+#dialog 14
+B-메뉴 I-메뉴 O O
+O O O
+O O
+O O
+O O
+#dialog 15
+O B-메뉴 I-메뉴 O
+O O O O O
+O O O O O
+O O O
+O O O O O O
+O O O O O B-메뉴 O O
+O O O
+O O O O B-메뉴 O O
+O B-배달지 I-배달지 I-배달지 I-배달지 O
+O B-금액 B-결재종류 O
+#dialog 16
+O
+O O O O O
+B-비품 O O O O O O
+O B-메뉴 O O O O O
+O O O O
+B-메뉴 B-수량 O
+O
+O O O
+B-비품 B-수량 I-수량 O O
+B-반찬 O O O
+O
+B-시간 O O O O
+O O O O O
+O O
+B-결제방식 O O
+O O
+#dialog 17
+B-인원 O
+B-비품 O O
+B-메뉴 B-수량 O B-메뉴 O
+B-사이드 O
+O
+#dialog 18
+B-메뉴 B-수량 O O O
+B-메뉴 O
+O O
+O B-수량 O O
+O O O
+#dialog 19
+B-날짜 B-예약시간 O O
+B-예약자 O
+B-장소 O O O
+O O O O
+O B-물 O O
+#dialog 20
+O O O
+O O O O
+O B-메뉴 I-메뉴 O B-음료 O
+B-음료 O O O O O
+O O O O
+#dialog 21
+O O O O O O
+O O
+O O O O O O
+B-메뉴 O B-재료 O
+B-메뉴 I-메뉴 O B-사이드 O
+O B-수량 O
+O
+B-음료 B-수량 O O
+O O O
+O O O O O O O O O O O
+O O O O O
+O B-인원 I-인원 O
+O O O O O
+O O O O
+B-요일 O O
+#dialog 22
+B-메뉴 O B-메뉴 I-메뉴 O O
+B-서브메뉴 O O
+O O O O O
+O B-예약일 O O O O O
+O O B-결제방식 I-결제방식 O
+#dialog 23
+O O
+O B-메뉴 O O
+B-사이즈 O O
+O B-반찬 B-수량 O B-음료 O O
+O B-사이즈 O O
+#dialog 24
+O
+B-인원 O
+O
+B-장소 O O O O
+O O
+#dialog 25
+B-메뉴 O O
+O O
+O B-메뉴 B-수량 O
+B-음료 O O O O
+B-결제방식 O O O
+#dialog 26
+B-인원 O
+B-메뉴 B-수량 O
+O O O O
+O O O
+O O O O
+O O
+O O O O O O
+O O O
+O O
+O O O
+B-결제방식 O B-결제방식 O O O
+B-반찬 O B-식기 O B-수량 O
+#dialog 27
+O O O O O
+O O O O
+O O B-메뉴 B-사이즈 B-수량 O O
+O O O O
+O O O O O
+#dialog 28
+O O O
+B-메뉴 O B-메뉴 O
+O B-메뉴 O O
+O B-결제방식 O
+O O
+#dialog 29
+O O O
+O B-메뉴 B-수량 O O O O
+B-메뉴 O B-재료 O O
+O B-재료 O O O
+O B-재료 O O O O O
+#dialog 30
+O
+O O O O O O O
+O B-메뉴 B-수량 B-메뉴 O O O
+O O B-메뉴 B-수량 O O
+O O O O O
+#dialog 31
+B-메뉴 B-수량 O
+O O O O
+O B-장소 O
+O O O O
+O O O O
+O O O O
+O O
+O O O
+O O O O O O
+O O O O O
+O O O
+O O O
+#dialog 32
+O O O
+O O
+O O
+B-메뉴 I-메뉴 O O O O
+O O O O
+B-메뉴 O O
+B-메뉴 I-메뉴 B-수량 O B-메뉴 O O
+O O O
+B-반찬 O O O
+O
+O O O
+#dialog 33
+O B-상호 O
+O O B-메뉴 B-수량 O B-메뉴 B-수량 O
+B-금액 O
+O O B-메뉴 O B-수량 O O O
+B-메뉴 O O O
+#dialog 34
+B-상호 I-상호 O
+O B-수량 B-메뉴 O B-메뉴 B-사이즈 O O
+B-배달지 I-배달지 I-배달지 I-배달지 O
+O O
+O O O O O
+#dialog 35
+O O O
+B-메뉴 O O O
+O O O O O
+O O O
+O O O O
+O
+O O
+#dialog 36
+B-메뉴 O B-음료 O O O
+B-금액 O O B-메뉴 O B-메뉴 O O B-금액 O
+O B-메뉴 O O
+O
+O O O O O
+O O B-사이드 O B-메뉴 O O O
+#dialog 37
+B-배달지 O O
+B-메뉴 O O O
+O O O
+B-식기 O O O O
+B-금액 O O O O O O
+B-메뉴 O O O O
+O O
+O O O O O O
+B-메뉴피 O B-금액 O O O O O O
+#dialog 38
+B-예약자 O O O O
+O O O O
+O O O O
+O O O
+O O
+#dialog 39
+O O O O
+O O O O O O O O
+#dialog 40
+O O
+B-예약자 O
+O O
+B-비품 O O
+B-메뉴 O B-수량 O
+#dialog 41
+B-메뉴 B-수량 I-수량 O O
+O O
+O B-계절 O O
+O O O
+B-반찬 O O
+B-배달지 O O O O O
+O O O O O
+O O O O
+O B-금액 O O O
+B-결제방식 O
+#dialog 42
+O B-상호 O
+B-메뉴 O O
+O B-메뉴 B-수량 O
+O B-메뉴 O B-수량 O
+B-주소 O O
+#dialog 43
+B-메뉴 I-메뉴 O O O
+B-메뉴 O O O
+O O O O
+B-메뉴 O O O
+O O O O O
+B-메뉴 O O O
+O B-메뉴 O B-맵기 I-맵기 O O
+B-음료 O O
+B-재료 O O
+B-메뉴 O B-토핑 O O
+B-메뉴 B-수량 O
+B-메뉴 B-수량 O O
+O B-장소 O O
+O O O
+O O O O
+O O
+O O
+B-시간 O O O O
+O O
+O O
+B-식기 O O O
+O O B-음료 O
+#dialog 44
+B-인원 I-인원 O B-위치 O O
+B-메뉴 O B-사이드 O
+O B-수량 I-수량 O O O O O B-메뉴 O O
+B-위치 O
+B-음료 O O
+O O O O
+B-소스 O O
+#dialog 45
+O O O O O O O
+O O O O
+O O O B-장소 O
+O O O O
+B-금액 O O O O O
+O O O O O
+B-메뉴 O O O O
+O O O O O O O
+B-결제종류 O O O
+O O
+O O O
+B-요일 O O
+O O O
+O O O O O
+O O O O O O
+B-수량 O
+O O O B-재료 O B-원산지 O O B-원산지 O
+O O O
+O O
+#dialog 46
+B-메뉴 B-수량 O B-메뉴 O O
+B-재료 O O O O
+O O B-결제방식 O O O O
+B-메뉴 O B-수량 O O
+O B-메뉴 O B-수량 O O
+#dialog 47
+O O O O
+O O O
+O B-장소 O O
+O O B-세트메뉴 I-세트메뉴 O O O B-사이즈 I-사이즈 B-수량 O
+B-사이즈 O
+O B-메뉴 O O O O O
+B-메뉴 B-사이즈 I-사이즈 B-수량 O B-메뉴 I-메뉴 I-메뉴 O O O O O
+O B-재료 O O O
+O O O O
+O B-수량 I-수량 O O O
+O O O O O
+O O O O O
+O O O
+O O O O
+O B-할인율 I-할인율 O O
+O O O O O O O
+O O O O
+#dialog 48
+B-예약시간 O B-장소 O
+O O O
+O B-메뉴 O B-메뉴 O O B-술 O
+O
+O B-비품 O
+#dialog 49
+B-장소 O O
+O O O B-메뉴 O O O O
+#dialog 50
+O O O O
+B-메뉴 I-메뉴 O O O O
+B-재료 O O O O
+B-재료 O B-원산지 O
+B-메뉴 B-메뉴 O B-금액 O B-메뉴 O O O O
+B-메뉴 B-수량 O
+B-메뉴 O
+O B-수량 I-수량
+O O O
+O O O O B-수량 I-수량 O O O O O
+O O
+O O O O
+O O
+B-장소 O O
+O O O O O O
+O O
+O O
+#dialog 51
+O O O
+O O
+O O O
+O O O
+O O O B-식기 O O O
+O
+B-수량 I-수량 O
+B-요일 O O
+O O O
+#dialog 52
+O O O
+B-메뉴 O B-메뉴 O O O O O
+O O O O O O
+O B-메뉴 I-메뉴 O B-재료 O O O O O O
+#dialog 53
+B-날짜 O
+O O
+B-예약시간 O O O O
+B-인원 O
+O O O O O
+#dialog 54
+O O O
+O O O O O
+O O O
+O O O O
+O B-재료 O
+O O O
+O O O O O
+O O O O O
+#dialog 55
+B-시간 I-시간 O O
+O O O
+O O O O
+O O O
+B-토핑 O
+#dialog 56
+O O
+B-메뉴 O B-메뉴 O O O
+O B-메뉴 O O O O
+O B-메뉴 O
+O O O O O O
+O B-메뉴 B-수량 I-수량 O O
+O B-배달지 I-배달지 I-배달지 I-배달지
+B-반찬 O O O O
+O B-메뉴 O B-사이드 O O O
+O O B-시간 O O O O
+#dialog 57
+B-메뉴 O B-메뉴 B-수량 O
+O O O
+O B-메뉴 O O B-메뉴 O O O
+O O
+B-결제방식 O
+#dialog 58
+B-메뉴 B-수량 O O
+O B-메뉴 O O
+O B-부속품 O O
+B-메뉴 O O O
+O O O O
+#dialog 59
+B-메뉴 I-메뉴 B-수량 O
+O B-재료 O O O O
+O O
+#dialog 60
+B-비품 O O
+B-인원 O O O
+O O
+O O O
+O B-메뉴 I-메뉴 B-수량 O
+O O
+O O O O O O O O
+B-날짜 O O
+O O O O
+O B-인원 I-인원 O O O O
+#dialog 61
+B-인원 O O
+B-비품 O O O O O
+O O O O O
+O O O
+O B-메뉴 B-수량 O
+O O O
+O O O O B-사이드 O
+O O O O O O
+O B-메뉴 O O B-사이드 O
+O O O O O O
+B-장소 O O
+#dialog 62
+O O
+B-예약자 O
+O O
+O O B-메뉴 O O
+B-술 B-수량 O O
+#dialog 63
+B-메뉴 O O
+O O O O O
+B-세트메뉴 I-세트메뉴 B-수량 O
+O O O O O
+O O O O
+O O
+B-사이즈 O O O O
+O
+O O O
+#dialog 64
+O O O O O O O O O O O O
+O O O O O O O B-토핑번호 I-토핑번호 O O
+O B-토핑번호 I-토핑번호 O O B-높이
+O B-수량 I-수량 O O O O O O O
+O O O O
+O O B-빵종류 O O O O O
+B-재료 O O O O O
+O B-재료 O O
+O O
+O O O O O O O O O
+O
+O
+O O
+#dialog 65
+O O O O O
+B-메뉴 O O O O
+B-수량 I-수량 O O O O O
+O O O
+B-메뉴 B-수량 I-수량 O O
+O O O O O
+O
+B-수량 I-수량 O O O O O O O O
+O O
+#dialog 66
+B-인원 B-시간 O O
+O O O
+O O
+O O B-재료 O O O
+O B-재료 O B-재료 B-수량 O O B-수량 O B-자리 O O
+#dialog 67
+O O O O
+B-메뉴 O B-맛 O
+O O O O
+B-메뉴 B-재료 O O
+B-메뉴 B-재료 O O O O
+O O O O
+B-장소 O O
+B-장소 O B-비품 O
+B-식기 O O O
+O O O O
+B-결제방식 O O
+#dialog 68
+O
+B-메뉴 B-수량 O O
+B-결제방식 O O
+O O
+O O
+#dialog 69
+O O O
+O O O O
+B-메뉴 B-메뉴 O O
+B-메뉴 B-수량 O
+O O B-재료 O
+O O
+O O B-장소 O O O
+O O O
+O O O O O O
+B-재료 O O O O
+#dialog 70
+B-메뉴 O O
+B-메뉴 O O O O
+B-메뉴 O O O
+O O
+O O O O
+#dialog 71
+O O O O O O
+B-메뉴 B-수량 O B-음료 O B-수량 O
+O O O B-결제방식 O O
+O B-결제방식 O O
+O
+#dialog 72
+O O B-수량 O B-세트메뉴 I-세트메뉴 O O
+O O
+O B-결제방식 O O
+O O O O
+O O
+#dialog 73
+O O B-인원 O O O
+O B-장소 O O O
+O B-장소 O O
+B-메뉴 O O O
+O O O O
+#dialog 74
+O O
+B-메뉴 I-메뉴 O O O
+B-메뉴 O O O
+O O O
+O B-메뉴 I-메뉴 B-수량 O
+O O O
+O O O O O
+O B-메뉴 O O
+O O O
+B-장소 O O
+O O
+O O O O O O O
+O O
+O O O O
+O B-결제방식 O O
+#dialog 75
+O O O O
+B-메뉴 O O O O
+O O O O
+O O O O O O O
+O B-인원 I-인원 O O O O B-메뉴 O O B-메뉴 I-메뉴 O O
+B-사이즈 O O O O O O O
+O O O B-메뉴 B-재료 O B-원산지 O
+O O O B-제조방법 O
+O O O O

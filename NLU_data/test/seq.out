@@ -1,0 +1,108 @@
+#dialog 0
+O O
+O O O O
+B-메뉴 O B-메뉴 B-메뉴 B-메뉴 O O O
+O O O O O
+B-메뉴 O O
+O
+O O O O O
+B-요일 O O
+#dialog 1
+B-예약일 O O
+B-예약자 O
+O O O O O O B-인원 O
+B-나이 O O O O O
+O O
+#dialog 2
+B-인원 O O
+B-비품 O O
+O O O O O O O O O O
+O B-메뉴 O B-재료 O O
+O B-재료 O O O O O O O
+O O O O
+O O O O O O
+O O O
+B-메뉴 I-메뉴 O B-나이 O O O
+B-메뉴 I-메뉴 O O
+O B-메뉴 I-메뉴 I-메뉴 O O
+O O O O O O
+B-메뉴 O O O O B-음료 O O
+B-음료 O O
+O O O
+O O O O O O
+O O O O O O O O O O O
+O O O O O O
+O
+O B-결제방식 O O O
+O O O O O
+B-결제방식 O B-결제방식 O O O
+O
+O O O O
+#dialog 3
+O O O O O O
+B-메뉴 B-사이즈 O B-수량 O B-메뉴 O
+O O
+O B-결제방식 O O
+O B-음료 O O B-수량 O
+#dialog 4
+B-인원 O O O O
+O O O
+B-사이드 O O O
+B-장소 O O O O O
+O B-비품 O O
+B-재료 O O O
+O O O
+O O B-예약인원 I-예약인원 B-예약인원 I-예약인원 O
+O O
+O
+O O
+#dialog 5
+O O O O
+B-예약자 O B-인원 O O O O
+O O O O O
+B-메뉴 I-메뉴 I-메뉴 O O O
+O O O O O O
+#dialog 6
+O B-수량 I-수량 O O
+B-메뉴 I-메뉴 O O O B-사이드 O B-메뉴 I-메뉴 O O O O
+O O O O O O O B-메뉴 I-메뉴 O
+O B-수량 O B-메뉴 O O B-메뉴 O O O O O
+O O O
+B-장소 O O O O O O
+O B-인원 O O O B-장소 O
+O O O O
+O O O O
+O O O B-사이즈 O
+O O O O
+O O O
+O B-식기 B-수량 O O
+O O O
+O O O
+#dialog 7
+B-메뉴 O O
+O O O
+O B-메뉴 O O O O O O
+O
+O B-금액 O
+O O O O
+O O O O O
+O O O B-금액 O O
+O O O O O
+B-메뉴 B-메뉴 B-메뉴 B-메뉴 O O O O O O
+O O O O
+O B-금액 O O O
+O O O
+O
+O O
+#dialog 8
+O O O
+B-메뉴 I-메뉴 O O O O O
+O O O O O O
+B-메뉴 O B-음료 O O B-메뉴 O O B-사이드(메뉴) O O
+O O
+#dialog 9
+B-시즌 O O O
+B-인원 O
+O O
+O O O
+O O O

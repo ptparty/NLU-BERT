@@ -1,0 +1,4 @@
+num_vocab=10004
+num_entity=269
+num_intent=42
+pad_idx=0
